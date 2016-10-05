@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm applying for PhD positions in machine learning and natural
   language processing. My research interest lies in the spectrum
   of machine learning, especially for interesting models and
-  algorithms in 
+  algorithms for languages and knowledge graph representations.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hejiang.space" # the base hostname & protocol for your site
 twitter_username: ChiqutaBomb
