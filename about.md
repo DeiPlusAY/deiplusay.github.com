@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me: He Jiang
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am currently a full-time research assistant at HKUST. I'm applying for PhD positions in machine learning and natural language processing. My research interest lies in the spectrum of machine learning, especially for interesting models and algorithms for languages and knowledge graph representations. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[CV]:	http://hejiang.space/cv.pdf
+[PS]:	http://hejiang.space/ps.pdf
+[RS]:	http://hejiang.space/rs.pdf
